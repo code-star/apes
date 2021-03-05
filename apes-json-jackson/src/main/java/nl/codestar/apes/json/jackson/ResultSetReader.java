@@ -1,4 +1,4 @@
-package nl.codestar.apes.core.showcase;
+package nl.codestar.apes.json.jackson;
 
 import nl.codestar.apes.core.canbuild.Builder;
 import nl.codestar.apes.core.canbuild.CanBuild;
