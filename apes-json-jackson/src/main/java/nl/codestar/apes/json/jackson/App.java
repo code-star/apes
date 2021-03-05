@@ -1,11 +1,11 @@
-package nl.codestar.apes.core.showcase;
+package nl.codestar.apes.json.jackson;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import nl.codestar.apes.core.tuple.Tuple;
 
-import static nl.codestar.apes.core.showcase.JsonFormat.*;
-import static nl.codestar.apes.core.showcase.Key.key;
+import static nl.codestar.apes.json.jackson.JsonFormat.*;
+import static nl.codestar.apes.json.jackson.Key.key;
 
 public class App {
 
